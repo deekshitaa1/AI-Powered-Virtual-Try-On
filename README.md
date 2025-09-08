@@ -4,7 +4,7 @@ This project integrates **CP-VTON** (Cloth Parsing-based Virtual Try-On Network)
 
 ## 🚀 Setup Instructions
 
-1. Extract this ZIP folder.
+1.Make a folder
 
 2. Install dependencies:
    ```bash
